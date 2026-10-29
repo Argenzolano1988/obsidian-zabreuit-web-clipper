@@ -1,0 +1,10 @@
+{
+  "id": "zabreuit-web-clipper",
+  "name": "Zabreuit AI Web Clipper",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "High-fidelity AI web clipper. Converts any web page into structured, clean Markdown notes with YAML Frontmatter. Zero cloud dependencies.",
+  "author": "Jose Antonio Abreu",
+  "authorUrl": "https://github.com/Argenzolano1988",
+  "isDesktopOnly": false
+}

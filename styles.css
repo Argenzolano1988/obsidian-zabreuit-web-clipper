@@ -1,0 +1,46 @@
+/* Zabreuit AI Web Clipper - Obsidian Plugin Styles */
+
+.zabreuit-clipper-modal {
+  padding: 16px;
+}
+
+.zabreuit-clipper-modal .modal-title {
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+
+.zabreuit-clipper-input-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.zabreuit-clipper-input-container input[type="text"] {
+  width: 100%;
+}
+
+.zabreuit-clipper-button-row {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.zabreuit-license-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.85em;
+  font-weight: 600;
+  margin-left: 8px;
+}
+
+.zabreuit-license-badge.pro {
+  background-color: var(--interactive-accent);
+  color: var(--text-on-accent);
+}
+
+.zabreuit-license-badge.free {
+  background-color: var(--background-modifier-border);
+  color: var(--text-muted);
+}
